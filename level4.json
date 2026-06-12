@@ -1,0 +1,702 @@
+[
+  {
+    "question_en": "Which major tectonic plate is almost entirely oceanic crust?",
+    "question_hi": "कौन सी प्रमुख विवर्तनिक प्लेट (tectonic plate) लगभग पूरी तरह से महासागरीय क्रस्ट से बनी है?",
+    "options_en": ["African Plate", "Pacific Plate", "Eurasian Plate", "Indo-Australian Plate"],
+    "options_hi": ["अफ्रीकी प्लेट", "प्रशांत प्लेट", "यूरेशियाई प्लेट", "भारत-ऑस्ट्रेलियाई प्लेट"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the only country crossed by both the Equator and the Tropic of Capricorn?",
+    "question_hi": "भूमध्य रेखा (Equator) और मकर रेखा (Tropic of Capricorn) दोनों द्वारा पार किया जाने वाला एकमात्र देश कौन सा है?",
+    "options_en": ["Brazil", "Ecuador", "Indonesia", "South Africa"],
+    "options_hi": ["ब्राजील", "इक्वाडोर", "इंडोनेशिया", "दक्षिण अफ्रीका"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "In cryptography, what does the acronym 'AES' stand for?",
+    "question_hi": "क्रिप्टोग्राफी में, संक्षिप्त रूप 'AES' का क्या अर्थ है?",
+    "options_en": ["Advanced Encryption Standard", "Asymmetric Encryption System", "Automated Exchange Security", "Authentication Encryption System"],
+    "options_hi": ["एडवांस्ड एन्क्रिप्शन स्टैंडर्ड", "असममित एन्क्रिप्शन सिस्टम", "ऑटोमेटेड एक्सचेंज सिक्योरिटी", "ऑथेंटिकेशन एन्क्रिप्शन सिस्टम"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which scientist discovered the element Radium alongside Marie Curie?",
+    "question_hi": "मैरी क्युरी के साथ मिलकर किस वैज्ञानिक ने रेडियम तत्व की खोज की थी?",
+    "options_en": ["Pierre Curie", "Henri Becquerel", "Ernest Rutherford", "Louis Pasteur"],
+    "options_hi": ["पियरे क्युरी", "हेनरी बेकरेल", "अर्नेस्ट रदरफोर्ड", "लुई पाश्चर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which city is known as the oldest continuously inhabited city in the world?",
+    "question_hi": "किस शहर को दुनिया के सबसे पुराने लगातार बसे हुए शहर के रूप में जाना जाता है?",
+    "options_en": ["Athens", "Damascus", "Rome", "Jerusalem"],
+    "options_hi": ["एथेंस", "दमिश्क", "रोम", "यरूशलेम"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the chemical symbol for the element Tungsten?",
+    "question_hi": "टंगस्टन (Tungsten) तत्व का रासायनिक प्रतीक क्या है?",
+    "options_en": ["Tu", "Tg", "W", "Tn"],
+    "options_hi": ["Tu", "Tg", "W", "Tn"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which trench is recognized as the deepest point in the world's oceans?",
+    "question_hi": "किस गर्त (trench) को दुनिया के महासागरों में सबसे गहरे बिंदु के रूप में मान्यता प्राप्त है?",
+    "options_en": ["Java Trench", "Puerto Rico Trench", "Mariana Trench", "Sunda Trench"],
+    "options_hi": ["जावा गर्त", "प्यूर्टो रिको गर्त", "मारियाना गर्त", "सुंडा गर्त"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who wrote the classic epic dystopian novel '1984'?",
+    "question_hi": "क्लासिक महाकाव्य डिस्टोपियन उपन्यास '1984' किसने लिखा था?",
+    "options_en": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+    "options_hi": ["एल्डस हक्सले", "जॉर्ज ऑरवेल", "रे ब्रैडबरी", "एच.जी. वेल्स"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What type of white blood cell is primarily responsible for producing antibodies?",
+    "question_hi": "एंटीबॉडी बनाने के लिए मुख्य रूप से किस प्रकार की श्वेत रक्त कोशिका जिम्मेदार होती है?",
+    "options_en": ["T lymphocyte", "B lymphocyte", "Neutrophil", "Macrophage"],
+    "options_hi": ["टी लिम्फोसाइट", "बी लिम्फोसाइट", "न्यूट्रोफिल", "मैक्रोफेज"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which state has the highest population density in India according to census metrics?",
+    "question_hi": "जनगणना मेट्रिक्स के अनुसार भारत में सबसे अधिक जनसंख्या घनत्व वाला राज्य कौन सा है?",
+    "options_en": ["Uttar Pradesh", "West Bengal", "Bihar", "Kerala"],
+    "options_hi": ["उत्तर Pradesh", "पश्चिम बंगाल", "बिहार", "केरल"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the standard unit of electrical capacitance?",
+    "question_hi": "विद्युत धारिता (electrical capacitance) की मानक इकाई क्या है?",
+    "options_en": ["Henry", "Farad", "Coulomb", "Weber"],
+    "options_hi": ["हेनरी", "फैराड (Farad)", "कूलम्ब", "वेबर"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which device is used to measure the specific gravity or relative density of liquids?",
+    "question_hi": "तरल पदार्थों के विशिष्ट गुरुत्व या सापेक्ष घनत्व को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "options_en": ["Hydrometer", "Hygrometer", "Barometer", "Anemometer"],
+    "options_hi": ["हाइड्रोमीटर", "हाइग्रोमीटर", "बैरोमीटर", "एनेमोमीटर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which city is officially recognized as the capital of New Zealand?",
+    "question_hi": "किस शहर को आधिकारिक तौर पर न्यूजीलैंड की राजधानी के रूप में मान्यता प्राप्त है?",
+    "options_en": ["Auckland", "Christchurch", "Wellington", "Hamilton"],
+    "options_hi": ["ऑकलैंड", "क्राइस्टचर्च", "वेलिंगटन", "हैमिल्टन"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "In which year did the historic French Revolution officially begin?",
+    "question_hi": "ऐतिहासिक फ्रांसीसी क्रांति आधिकारिक तौर पर किस वर्ष शुरू हुई थी?",
+    "options_en": ["1776", "1789", "1799", "1804"],
+    "options_hi": ["1776", "1789", "1799", "1804"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What gas is the most abundant noble gas found in Earth's atmosphere?",
+    "question_hi": "पृथ्वी के वायुमंडल में पाई जाने वाली सबसे प्रचुर मात्रा में उत्कृष्ट गैस (noble gas) कौन सी है?",
+    "options_en": ["Helium", "Neon", "Argon", "Krypton"],
+    "options_hi": ["हीलियम", "नियोन", "आर्गन (Argon)", "क्रिप्टन"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which human endocrine gland is famously called the 'Master Gland'?",
+    "question_hi": "किस मानव अंतःस्रावी ग्रंथि को प्रसिद्ध रूप से 'मास्टर ग्रंथि' कहा जाता है?",
+    "options_en": ["Thyroid Gland", "Adrenal Gland", "Pituitary Gland", "Pancreas"],
+    "options_hi": ["थायरॉयड ग्रंथि", "एड्रीनल ग्रंथि", "पीयूष ग्रंथि (Pituitary)", "अग्न्याशय"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who directed the historically acclaimed cinema masterwork 'Schindler's List'?",
+    "question_hi": "ऐतिहासिक रूप से प्रशंसित सिनेमा मास्टरवर्क 'शिंडलर लिस्ट' का निर्देशन किसने किया था?",
+    "options_en": ["Martin Scorsese", "Steven Spielberg", "Francis Ford Coppola", "Stanley Kubrick"],
+    "options_hi": ["मार्टिन स्कोर्सेसे", "स्टीवन स्पीलबर्ग", "फ्रांसिस फोर्ड कोपोला", "स्टैनली कुब्रिक"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which city is known as the electronic components manufacturing hub or 'Shenzhen of India'?",
+    "question_hi": "किस भारतीय शहर को इलेक्ट्रॉनिक घटकों के निर्माण केंद्र या 'भारत का शेनझेन' के रूप में जाना जाता है?",
+    "options_en": ["Chennai", "Bengaluru", "Noida", "Hyderabad"],
+    "options_hi": ["चेन्नई", "बेंगलोर", "नोएडा", "हैदराबाद"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What is the capital city of Australia's largest island state, Tasmania?",
+    "question_hi": "ऑस्ट्रेलिया के सबसे बड़े द्वीप राज्य तस्मानिया की राजधानी कौन सा शहर है?",
+    "options_en": ["Launceston", "Hobart", "Darwin", "Perth"],
+    "options_hi": ["लाउंसेस्टन", "होबार्ट (Hobart)", "डार्विन", "पर्थ"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which chemical element has the highest melting point of all non-alloyed metals?",
+    "question_hi": "सभी गैर-मिश्रित धातुओं में किस रासायनिक तत्व का गलनांक (melting point) सबसे अधिक होता है?",
+    "options_en": ["Platinum", "Tungsten", "Titanium", "Osmium"],
+    "options_hi": ["प्लेटिनम", "टंगस्टन", "टाइटेनियम", "ऑस्मियम"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which major river runs through Egypt's historic valley and Cairo?",
+    "question_hi": "मिस्र की ऐतिहासिक घाटी और काहिरा से होकर कौन सी प्रमुख नदी बहती है?",
+    "options_en": ["Amazon", "Nile", "Congo", "Niger"],
+    "options_hi": ["अमेज़न", "नील नदी", "कांगो", "नाइजर"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "In what year did the historic Magna Carta document officially get signed?",
+    "question_hi": "ऐतिहासिक मैग्ना कार्टा दस्तावेज़ पर आधिकारिक तौर पर किस वर्ष हस्ताक्षर किए गए थे?",
+    "options_en": ["1066", "1215", "1492", "1588"],
+    "options_hi": ["1066", "1215", "1492", "1588"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What hardware bus component inside computers handles ultra-fast processing lanes between CPU and GPU?",
+    "question_hi": "कंप्यूटर के अंदर कौन सा हार्डवेयर बस घटक CPU और GPU के बीच अल्ट्रा-फास्ट प्रोसेसिंग लेन को संभालता है?",
+    "options_en": ["PCIe", "SATA", "USB-C", "IDE"],
+    "options_hi": ["PCIe", "SATA", "USB-C", "IDE"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which art masterwork painted by Leonardo da Vinci portrays 'The Last Supper'?",
+    "question_hi": "लियोनार्डो दा विंची द्वारा चित्रित कौन सी कलाकृति 'द लास्ट सपर' (The Last Supper) को दर्शाती है?",
+    "options_en": ["Mona Lisa", "The Last Supper", "The Creation of Adam", "The Night Watch"],
+    "options_hi": ["मोना लिसा", "द लास्ट सपर", "द क्रिएशन ऑफ एडम", "द नाइट वॉच"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the official operational currency used standard across Switzerland?",
+    "question_hi": "स्विट्जरलैंड में मानक के रूप में उपयोग की जाने वाली आधिकारिक मुद्रा क्या है?",
+    "options_en": ["Euro", "Swiss Franc", "Pound Sterling", "Krona"],
+    "options_hi": ["यूरो", "स्विस फ्रैंक", "पाउंड स्टर्लिंग", "क्रोना"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which specific atmospheric layer reflects radio signals back to Earth?",
+    "question_hi": "कौन सी विशिष्ट वायुमंडलीय परत रेडियो संकेतों को वापस पृथ्वी पर परावर्तित करती है?",
+    "options_en": ["Troposphere", "Stratosphere", "Ionosphere", "Exosphere"],
+    "options_hi": ["क्षोभमंडल", "समतापमंडल", "आयनमंडल (Ionosphere)", "बाह्यमंडल"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who was the first woman to win Nobel Prizes in two different science categories?",
+    "question_hi": "दो अलग-अलग विज्ञान श्रेणियों में नोबेल पुरस्कार जीतने वाली पहली महिला कौन थीं?",
+    "options_en": ["Marie Curie", "Gerty Cori", "Maria Goeppert Mayer", "Dorothy Hodgkin"],
+    "options_hi": ["मैरी क्युरी", "गर्टी कोरी", "मारिया गोएपर्ट मेयर", "डोरोथी हॉजकिन"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which country is the second largest exporter of agricultural products worldwide?",
+    "question_hi": "दुनिया भर में कृषि उत्पादों का दूसरा सबसे बड़ा निर्यातक देश कौन सा है?",
+    "options_en": ["China", "Brazil", "Netherlands", "Canada"],
+    "options_hi": ["चीन", "ब्राजील", "नेदरलैंड्स (Netherlands)", "कनाडा"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What are the names of the tiny bones located inside the middle human ear?",
+    "question_hi": "मानव कान के मध्य में स्थित छोटी हड्डियों के नाम क्या हैं?",
+    "options_en": ["Ossicles", "Phalanges", "Carpals", "Tarsals"],
+    "options_hi": ["ऑसिटकल्स (Ossicles)", "फालंगेस", "कार्पल्स", "टार्सल्स"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which team won the historic first ICC Cricket World Cup tournament in 1975?",
+    "question_hi": "1975 में ऐतिहासिक पहला आईसीसी क्रिकेट विश्व कप टूर्नामेंट किस टीम ने जीता था?",
+    "options_en": ["Australia", "England", "West Indies", "India"],
+    "options_hi": ["ऑस्ट्रेलिया", "इंग्लैंड", "वेस्टइंडीज", "भारत"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the chemical name for common household bleach material?",
+    "question_hi": "सामान्य घरेलू ब्लीच सामग्री का रासायनिक नाम क्या है?",
+    "options_en": ["Sodium Hypochlorite", "Calcium Carbonate", "Sodium Hydroxide", "Ammonium Chloride"],
+    "options_hi": ["सोडियम हाइपोक्लोराइड", "कैल्शियम कार्बोनेट", "सोडियम हाइड्रोक्साइड", "अमोनियम क्लोराइड"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which physicist formulated the laws of electromagnetic induction?",
+    "question_hi": "किस भौतिक विज्ञानी ने विद्युत चुंबकीय प्रेरण (electromagnetic induction) के नियमों को प्रतिपादित किया था?",
+    "options_en": ["Michael Faraday", "James Clerk Maxwell", "Heinrich Hertz", "Alessandro Volta"],
+    "options_hi": ["माइकल फैराडे", "जेम्स क्लर्क मैक्सवेल", "हेनरिक हर्ट्ज़", "एलेसेंड्रो वोल्टा"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What is the capital city of Russia?",
+    "question_hi": "रूस की राजधानी कौन सा शहर है?",
+    "options_en": ["Saint Petersburg", "Moscow", "Novosibirsk", "Kazan"],
+    "options_hi": ["सेंट पीटरसबर्ग", "मास्को", "नोवोसिबिर्स्क", "कजान"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which query layout model type represents NoSQL object databases like MongoDB?",
+    "question_hi": "कौन सा क्वेरी लेआउट मॉडल प्रकार मोंगोडीबी (MongoDB) जैसे NoSQL ऑब्जेक्ट डेटाबेस का प्रतिनिधित्व करता है?",
+    "options_en": ["Document Store", "Key-Value Pair", "Wide-Column Store", "Graph Network"],
+    "options_hi": ["डॉक्यूमेंट स्टोर", "की-वैल्यू पेयर", "वाइड-कॉलम स्टोर", "ग्राफ नेटवर्क"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What marine organism group constructs huge tropical reef walls under oceans?",
+    "question_hi": "कौन सा समुद्री जीव समूह महासागरों के नीचे विशाल उष्णकटिबंधीय रीफ दीवारों का निर्माण करता है?",
+    "options_en": ["Coral Polyps", "Plankton Nodes", "Anemone Links", "Algae Bundles"],
+    "options_hi": ["कोरल पॉलिप्स (Coral Polyps)", "प्लवक नोड्स", "एनीमोन लिंक", "शैवाल बंडल"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which historic complex structure is located in the archaeological site of Jordan?",
+    "question_hi": "जॉर्डन के पुरातात्विक स्थल में कौन सी ऐतिहासिक जटिल संरचना स्थित है?",
+    "options_en": ["Petra", "Machu Picchu", "Chichen Itza", "Palmyra"],
+    "options_hi": ["पेत्रा (Petra)", "माचू पिच्चू", "चिचेन इत्जा", "पल्माइरा"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who wrote the classic Indian independence manifesto 'Hind Swaraj'?",
+    "question_hi": "भारतीय स्वतंत्रता का ऐतिहासिक घोषणापत्र 'हिंद स्वराज' किसने लिखा था?",
+    "options_en": ["Subhash Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru", "Bal Gangadhar Tilak"],
+    "options_hi": ["सुभाष चंद्र बोस", "महात्मा गांधी", "जवाहरलाल नेहरू", "बाल गंगाधर तिलक"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which noble gas element has the atomic number 10 on the periodic table?",
+    "question_hi": "आवर्त सारणी में किस उत्कृष्ट गैस (noble gas) तत्व का परमाणु क्रमांक 10 है?",
+    "options_en": ["Helium", "Neon", "Argon", "Krypton"],
+    "options_hi": ["हीलियम", "नियोन (Neon)", "आर्गन", "क्रिप्टन"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which microstate nation is landlocked completely inside the borders of Italy?",
+    "question_hi": "कौन सा सूक्ष्म-देश (microstate) पूरी तरह से इटली की सीमाओं के भीतर स्थित है?",
+    "options_en": ["San Marino", "Monaco", "Liechtenstein", "Andorra"],
+    "options_hi": ["सैन मैरिनो (San Marino)", "मोनाको", "लिकटेंस्टीन", "अंडोरा"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What type of light spectra has wavelengths just longer than visible red light?",
+    "question_hi": "किस प्रकार के प्रकाश स्पेक्ट्रा की तरंगदैर्ध्य दृश्यमान लाल प्रकाश से थोड़ी लंबी होती है?",
+    "options_en": ["Ultraviolet", "Infrared", "Microwaves", "X-Rays"],
+    "options_hi": ["पराबैंगनी", "इन्फ्रारेड (Infrared)", "माइक्रोवेव", "एक्स-रे"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which athlete won a historic 8 gold medals at the 2008 Beijing Olympics?",
+    "question_hi": "किस एथलीट ने 2008 के बीजिंग ओलंपिक में ऐतिहासिक 8 स्वर्ण पदक जीते थे?",
+    "options_en": ["Michael Phelps", "Usain Bolt", "Ian Thorpe", "Ryan Lochte"],
+    "options_hi": ["माइकल फेल्प्स", "उसेन बोल्ट", "इयान थोरपे", "रयान लोचटे"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which city is known as the capital of Portugal?",
+    "question_hi": "पुर्तगाल की राजधानी के रूप में किस शहर को जाना जाता है?",
+    "options_en": ["Porto", "Lisbon", "Madrid", "Faro"],
+    "options_hi": ["पोर्टो", "लिस्बन (Lisbon)", "मैड्रिड", "फ़ारो"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the official name of the currency used in Russia?",
+    "question_hi": "रूस में उपयोग की जाने वाली मुद्रा का आधिकारिक नाम क्या है?",
+    "options_en": ["Ruble", "Lev", "Krone", "Zloty"],
+    "options_hi": ["रूबल (Ruble)", "लेव", "क्रोन", "ज़्लॉटी"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which part of a plant cell contains chlorophyll and performs photosynthesis?",
+    "question_hi": "पादप कोशिका के किस भाग में क्लोरोफिल होता है और वह प्रकाश संश्लेषण करता है?",
+    "options_en": ["Mitochondria", "Chloroplast", "Vacuole", "Ribosome"],
+    "options_hi": ["माइटोकॉन्ड्रिया", "क्लोरोप्लास्ट (Chloroplast)", "रिक्तिका (Vacuole)", "राइबोसोम"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Who sculpted the legendary marble statue masterpiece named 'David'?",
+    "question_hi": "डेविड (David) नाम की संगमरमर की प्रसिद्ध मूर्ति कृति को किसने तराशा था?",
+    "options_en": ["Donatello", "Michelangelo", "Leonardo da Vinci", "Bernini"],
+    "options_hi": ["डोनाटेलो", "माइकल एंजेलो", "लियोनार्डो दा विंची", "बरनीनी"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which state of India is recognized as the largest producer of coffee?",
+    "question_hi": "भारत का कौन सा राज्य कॉफी के सबसे बड़े उत्पादक के रूप में मान्यता प्राप्त है?",
+    "options_en": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+    "options_hi": ["केरल", "तमिलनाडु", "कर्नाटक", "आंध्र प्रदेश"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What computer networking script model is universally used to structure backend JSON APIs?",
+    "question_hi": "बैकएंड JSON एपीआई को संरचित करने के लिए सार्वभौमिक रूप से किस नेटवर्किंग स्क्रिप्ट मॉडल का उपयोग किया जाता है?",
+    "options_en": ["REST", "SOAP", "GraphQL", "gRPC"],
+    "options_hi": ["REST", "SOAP", "GraphQL", "gRPC"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which country is the largest country by land area in South America?",
+    "question_hi": "दक्षिण अमेरिका में भूमि क्षेत्रफल के हिसाब से सबसे बड़ा देश कौन सा है?",
+    "options_en": ["Argentina", "Colombia", "Peru", "Brazil"],
+    "options_hi": ["अर्जेंटीना", "कोलंबिया", "पेरू", "ब्राजील"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "What is the chemical formula for common household hydrogen peroxide?",
+    "question_hi": "सामान्य घरेलू हाइड्रोजन पेरोक्साइड का रासायनिक सूत्र क्या है?",
+    "options_en": ["H2O", "H2O2", "HO2", "H3O"],
+    "options_hi": ["H2O", "H2O2", "HO2", "H3O"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which desert is recognized as the driest non-polar desert on Earth?",
+    "question_hi": "किस मरुस्थल को पृथ्वी पर सबसे सूखे गैर-ध्रुवीय मरुस्थल के रूप में मान्यता प्राप्त है?",
+    "options_en": ["Atacama Desert", "Sahara Desert", "Gobi Desert", "Mojave Desert"],
+    "options_hi": ["अटाकामा मरुस्थल (Atacama)", "सहारा मरुस्थल", "गोबी मरुस्थल", "मोहावे मरुस्थल"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who was the prime architect behind the setup of the Indian Constitution layout?",
+    "question_hi": "भारतीय संविधान लेआउट के निर्माण के पीछे मुख्य वास्तुकार कौन थे?",
+    "options_en": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+    "options_hi": ["महात्मा गांधी", "डॉ. बी.आर. अंबेडकर", "जहावरलाल नेहरू", "सरदार वल्लभभाई पटेल"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which mountain range features the famous peak named Mont Blanc?",
+    "question_hi": "मोंट ब्लांक (Mont Blanc) नामक प्रसिद्ध चोटी किस पर्वत श्रृंखला में स्थित है?",
+    "options_en": ["Pyrenees", "Alps", "Apennines", "Carpathians"],
+    "options_hi": ["पिरेनीज़", "आल्प्स (Alps)", "एपेनाइन्स", "कार्पेथियन"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What chemical liquid layer inside mammalian eyes focuses incoming ambient light onto the retina?",
+    "question_hi": "स्तनधारियों की आँखों के भीतर कौन सी रासायनिक परत आने वाले प्रकाश को रेटिना पर केंद्रित करती है?",
+    "options_en": ["Vitreous Humor", "Crystalline Lens", "Aqueous Humor", "Sclera Node"],
+    "options_hi": ["विट्रियस ह्यूमर", "क्रिस्टलाइन लेंस", "एक्वियस ह्यूमर", "स्क्लेरा नोड"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which major European city serves as the official capital of Poland?",
+    "question_hi": "कौन सा प्रमुख यूरोपीय शहर पोलैंड की आधिकारिक राजधानी है?",
+    "options_en": ["Krakow", "Warsaw", "Gdańsk", "Wrocław"],
+    "options_hi": ["क्राको", "वार्सॉ (Warsaw)", "ग्डांस्क", "व्रोकला"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What data protocol standard manages real-time continuous communication links like WebSockets?",
+    "question_hi": "कौन सा डेटा प्रोटोकॉल मानक वेबसॉकेट (WebSockets) जैसे रीयल-टाइम संचार लिंक को प्रबंधित करता है?",
+    "options_en": ["Full-Duplex TCP", "Half-Duplex UDP", "Stateless HTTP Request", "Broadcast Layer"],
+    "options_hi": ["फुल-डुप्लेक्स टीसीपी", "हाफ-डुप्लेक्स यूडीपी", "स्टेटलेस एचटीटीपी रिक्वेस्ट", "ब्रॉडकास्ट लेयर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which classical music prodigy composed the opera masterpiece 'The Marriage of Figaro'?",
+    "question_hi": "किस शास्त्रीय संगीत उस्ताद ने ओपेरा कृति 'द मैरिज ऑफ फिगारो' की रचना की थी?",
+    "options_en": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Franz Schubert", "Frederic Chopin"],
+    "options_hi": ["लुडविग वैन बीथोवेन", "वुल्फगैंग एमाडियस मोजार्ट", "फ्रांज शुबर्ट", "फ्रेडरिक चोपिन"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which body of water separates the island of Madagascar from mainland Africa?",
+    "question_hi": "कौन सा जल निकाय मेडागास्कर द्वीप को मुख्य भूमि अफ्रीका से अलग करता है?",
+    "options_en": ["Red Sea", "Mozambique Channel", "Persian Gulf", "Gulf of Aden"],
+    "options_hi": ["लाल सागर", "मोजाम्बिक चैनल", "फारस की खाड़ी", "अदन की खाड़ी"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What temperature value scales indicate Absolute Zero in Kelvin configurations?",
+    "question_hi": "केल्विन कॉन्फ़िगरेशन में कौन सा तापमान मान 'परम शून्य' (Absolute Zero) को दर्शाता है?",
+    "options_en": ["0 K", "-273.15 K", "100 K", "-459.67 K"],
+    "options_hi": ["0 K", "-273.15 K", "100 K", "-459.67 K"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who developed the first universally successful human smallpox vaccine layout in 1796?",
+    "question_hi": "1796 में पहला सार्वभौमिक रूप से सफल मानव चेचक (smallpox) का टीका किसने विकसित किया था?",
+    "options_en": ["Louis Pasteur", "Edward Jenner", "Robert Koch", "Alexander Fleming"],
+    "options_hi": ["लुई पाश्चर", "एडवर्ड जेनर (Edward Jenner)", "रॉबर्ट कोच", "अलेक्जेंडर फ्लेमिंग"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which track and field event historically features hurdles and a water jump pit?",
+    "question_hi": "किस ट्रैक एंड फील्ड स्पर्धा में ऐतिहासिक रूप से बाधाएं (hurdles) और पानी का गड्ढा (water jump pit) शामिल होता है?",
+    "options_en": ["Steeplechase", "Decathlon", "Pole Vault", "Triple Jump"],
+    "options_hi": ["स्टीपलचेज़ (Steeplechase)", "डेकाथलॉन", "पोल वॉल्ट", "त्रिकूद"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What property measures a fluid's inherent internal resistance to flow smoothly?",
+    "question_hi": "कौन सा गुण किसी तरल पदार्थ के सुचारू रूप से बहने के आंतरिक प्रतिरोध को मापता है?",
+    "options_en": ["Density", "Viscosity", "Surface Tension", "Buoyancy"],
+    "options_hi": ["घनत्व", "श्यानता (Viscosity)", "पृष्ठ तनाव", "उत्प्लावकता"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which sovereign country is completely landlocked within the territorial borders of Italy besides Vatican City?",
+    "question_hi": "वैटिकन सिटी के अलावा कौन सा संप्रभु देश पूरी तरह से इटली की क्षेत्रीय सीमाओं के भीतर घिरा हुआ है?",
+    "options_en": ["San Marino", "Monaco", "Andorra", "Liechtenstein"],
+    "options_hi": ["सैन मैरिनो (San Marino)", "मोनाको", "अंडोरा", "लिकटेंस्टीन"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What chemical compound is known technical standard name as Carbolic Acid?",
+    "question_hi": "किस रासायनिक यौगिक को तकनीकी रूप से कार्बोलिक एसिड (Carbolic Acid) के नाम से जाना जाता है?",
+    "options_en": ["Phenol", "Acetic Acid", "Acetone", "Ethanol"],
+    "options_hi": ["फिनोल (Phenol)", "एसिटिक एसिड", "एसीटोन", "एथेनॉल"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who is the award-winning author of the timeless classic epic novel 'War and Peace'?",
+    "question_hi": "कालातीत महाकाव्य उपन्यास 'युद्ध और शांति' (War and Peace) के लेखक कौन हैं?",
+    "options_en": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Vladimir Nabokov"],
+    "options_hi": ["फ्योदोर दोस्तोवस्की", "लियो टॉल्स्टॉय", "एंटोन चेखव", "व्लादिमीर नाबोकोव"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which country features the highest number of active volcanic structures worldwide?",
+    "question_hi": "दुनिया भर में किस देश में सक्रिय ज्वालामुखियों की संख्या सबसे अधिक है?",
+    "options_en": ["Japan", "Indonesia", "United States", "Iceland"],
+    "options_hi": ["जापान", "इंडोनेशिया", "संयुक्त राज्य अमेरिका", "आइसलैंड"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What index identifies individual physical interface hardware targets inside a local network segment?",
+    "question_hi": "एक स्थानीय नेटवर्क सेगमेंट के भीतर कौन सा इंडेक्स व्यक्तिगत भौतिक इंटरफ़ेस हार्डवेयर लक्ष्यों की पहचान करता है?",
+    "options_en": ["MAC Address", "IP Address", "Subnet Mask", "Gateway Node"],
+    "options_hi": ["मैक एड्रेस (MAC Address)", "आईपी एड्रेस", "सबनेट मास्क", "गेटवे नोड"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which human biological internal organ layer contains specialized filtering components named Nephrons?",
+    "question_hi": "मानव शरीर के किस आंतरिक अंग में नेफ्रॉन (Nephrons) नामक विशेष फिल्टर घटक होते हैं?",
+    "options_en": ["Liver", "Kidney", "Spleen", "Pancreas"],
+    "options_hi": ["यकृत", "गुर्दा (Kidney)", "प्लीहा", "अग्न्याशय"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "In what chronological epoch node did the historic Bronze Age collapse take place across Mediterranean civilizations?",
+    "question_hi": "भूमध्यसागरीय सभ्यताओं में ऐतिहासिक कांस्य युग का पतन (Bronze Age collapse) किस कालक्रम में हुआ था?",
+    "options_en": ["Around 1200 BCE", "Around 500 BCE", "Around 200 CE", "Around 400 BCE"],
+    "options_hi": ["लगभग 1200 ईसा पूर्व", "लगभग 500 ईसा पूर्व", "लगभग 200 ईस्वी", "लगभग 400 ईसा पूर्व"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which sea is completely enclosed and bordered by Kazakhstan and Uzbekistan?",
+    "question_hi": "कौन सा सागर पूरी तरह से कजाकिस्तान और उजबेकिस्तान से घिरा हुआ है?",
+    "options_en": ["Caspian Sea", "Aral Sea", "Black Sea", "Dead Sea"],
+    "options_hi": ["कैस्पियन सागर", "अरल सागर (Aral Sea)", "काला सागर", "मृत सागर"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What foundational status layer manages asset permissions using codes like 755 in Linux systems?",
+    "question_hi": "लिनक्स सिस्टम में कौन सा मूलभूत स्टेटस लेयर 755 जैसे कोड का उपयोग करके अनुमतियों को प्रबंधित करता है?",
+    "options_en": ["File Permissions", "Kernel Security Node", "User Domain Tracker", "Network Port Link"],
+    "options_hi": ["फ़ाइल अनुमतियाँ (File Permissions)", "कर्नेल सुरक्षा नोड", "यूज़र डोमेन ट्रैकर", "नेटवर्क पोर्ट लिंक"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which nation won the historic inaugural ICC Women's T20 World Cup title in 2009?",
+    "question_hi": "2009 में ऐतिहासिक पहला आईसीसी महिला टी20 विश्व कप खिताब किस देश ने जीता था?",
+    "options_en": ["Australia", "England", "New Zealand", "India"],
+    "options_hi": ["ऑस्ट्रेलिया", "इंग्लैंड", "न्यूजीलैंड", "भारत"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What core mineral crystal element forms the structural framework of ordinary quartz?",
+    "question_hi": "साधारण क्वार्ट्ज (quartz) के संरचनात्मक ढांचे का निर्माण कौन सा मुख्य खनिज क्रिस्टल तत्व करता है?",
+    "options_en": ["Silicon Dioxide", "Calcium Carbonate", "Aluminum Oxide", "Sodium Chloride"],
+    "options_hi": ["सिलिकॉन डाइऑक्साइड", "कैल्शियम कार्बोनेट", "एल्यूमीनियम ऑक्साइड", "सोडियम क्लोराइड"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which longitudinal reference line maps out the Prime Meridian coordinate marker?",
+    "question_hi": "कौन सी देशांतर रेखा प्रधान मध्याह्न रेखा (Prime Meridian) समन्वय मार्कर को दर्शाती है?",
+    "options_en": ["0° Longitude", "180° Longitude", "90° East Longitude", "45° West Longitude"],
+    "options_hi": ["0° देशांतर", "180° देशांतर", "90° पूर्वी देशांतर", "45° पश्चिमी देशांतर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who wrote the classic literary masterpiece tragedy drama titled 'Macbeth'?",
+    "question_hi": "क्लासिक साहित्यिक उत्कृष्ट त्रासदी नाटक 'मैकबेथ' (Macbeth) किसने लिखा था?",
+    "options_en": ["William Shakespeare", "Christopher Marlowe", "John Milton", "Ben Jonson"],
+    "options_hi": ["विलियम शेक्सपियर", "क्रिस्टोफर मार्लो", "जॉन मिल्टन", "बेन जॉनसन"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which dynamic Southeast Asian nation was historical territory known as Siam?",
+    "question_hi": "कौन सा दक्षिण-पूर्वी एशियाई देश ऐतिहासिक रूप से 'स्याम' (Siam) नाम से जाना जाता था?",
+    "options_en": ["Vietnam", "Thailand", "Cambodia", "Malaysia"],
+    "options_hi": ["वियतनाम", "थाईलैंड (Thailand)", "कंबोडिया", "मलेशिया"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What primary color output is achieved when combining green and red spectrum light waves?",
+    "question_hi": "हरे और लाल स्पेक्ट्रम प्रकाश तरंगों को मिलाने पर कौन सा प्राथमिक रंग प्राप्त होता है?",
+    "options_en": ["Yellow", "Cyan", "Magenta", "White"],
+    "options_hi": ["पीला (Yellow)", "स्यान", "मजेंटा", "सफेद"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which device safely transforms high alternative voltage rates into lower operational consumer voltages?",
+    "question_hi": "कौन सा उपकरण उच्च अल्टरनेटिंग वोल्टेज दरों को सुरक्षित रूप से कम परिचालन उपभोक्ता वोल्टेज में बदलता है?",
+    "options_en": ["Inverter", "Transformer", "Rectifier", "Capacitor"],
+    "options_hi": ["इन्वर्टर", "ट्रांसफार्मर", "रेक्टिफायर", "कैपेसिटर"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What specialized chemistry module generates electricity directly using clean hydrogen gas reactions?",
+    "question_hi": "कौन सा विशिष्ट रसायन शास्त्र मॉड्यूल सीधे स्वच्छ हाइड्रोजन गैस प्रतिक्रियाओं का उपयोग करके बिजली उत्पन्न करता है?",
+    "options_en": ["Hydrogen Fuel Cell", "Lithium Battery Pack", "Solar Photovoltaic Link", "Thermal Combustion Node"],
+    "options_hi": ["हाइड्रोजन ईंधन सेल (Fuel Cell)", "लिथियम बैटरी पैक", "सौर फोटोवोल्टिक लिंक", "थर्मल कंबशन नोड"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which landlocked sea separates Eastern Europe from Western Asia regions?",
+    "question_hi": "कौन सा घिरा हुआ सागर पूर्वी यूरोप को पश्चिमी एशिया क्षेत्रों से अलग करता है?",
+    "options_en": ["Black Sea", "Red Sea", "Mediterranean Sea", "Baltic Sea"],
+    "options_hi": ["काला सागर (Black Sea)", "लाल सागर", "भूमध्य सागर", "बाल्टिक सागर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who formulated the foundational mathematical equations linking space, time, and mass gravity matrices?",
+    "question_hi": "अंतरिक्ष, समय और द्रव्यमान गुरुत्वाकर्षण मैट्रिक्स को जोड़ने वाले मूलभूत गणितीय समीकरणों को किसने तैयार किया था?",
+    "options_en": ["Albert Einstein", "Isaac Newton", "Max Planck", "Niels Bohr"],
+    "options_hi": ["अल्बर्ट आइंस्टीन", "इसाक न्यूटन", "मैक्स प्लैंक", "नील्स बोर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What specific gas represents the primary fuel burned inside our solar sun?",
+    "question_hi": "हमारे सौर सूर्य के भीतर जलने वाले प्राथमिक ईंधन का प्रतिनिधित्व कौन सी विशिष्ट गैस करती है?",
+    "options_en": ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
+    "options_hi": ["हाइड्रोजन (Hydrogen)", "हीलियम", "ऑक्सीजन", "नाइट्रोजन"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which internal layer contains high-pressure viscous magma properties directly below Earth's crust?",
+    "question_hi": "पृथ्वी की क्रस्ट के ठीक नीचे किस आंतरिक परत में उच्च दबाव वाले चिपचिपे मैग्मा गुण होते हैं?",
+    "options_en": ["Mantle", "Outer Core", "Inner Core", "Lithosphere"],
+    "options_hi": ["मेंटल (Mantle)", "बाहरी कोर", "आंतरिक कोर", "स्थल मंडल"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who created the historic relational database management structural layout model?",
+    "question_hi": "ऐतिहासिक रिलेशनल डेटाबेस मैनेजमेंट स्ट्रक्चरल लेआउट मॉडल का निर्माण किसने किया था?",
+    "options_en": ["Edgar F. Codd", "Dennis Ritchie", "Alan Turing", "Linus Torvalds"],
+    "options_hi": ["एडगर एफ. कॉड (Edgar F. Codd)", "डेनिस रिची", "एलन ट्यूरिंग", "लिनस टोरवाल्ड्स"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which country hosted the first historic modern Olympic Games tournament layout in 1896?",
+    "question_hi": "1896 में पहले ऐतिहासिक आधुनिक ओलंपिक खेल टूर्नामेंट की मेजबानी किस देश ने की थी?",
+    "options_en": ["Greece", "France", "United Kingdom", "United States"],
+    "options_hi": ["ग्रीस (Greece)", "फ्रांस", "यूनाइटेड किंगडम", "संयुक्त राज्य अमेरिका"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What mineral compound acts as the semiconductor foundational substrate inside modern CPU dies?",
+    "question_hi": "आधुनिक सीपीयू के भीतर सेमीकंडक्टर के मुख्य आधार के रूप में कौन सा खनिज काम करता है?",
+    "options_en": ["Silicon", "Germanium", "Gallium Arsenide", "Graphene"],
+    "options_hi": ["सिलिकॉन (Silicon)", "जर्मेनियम", "गैलियम आर्सेनाइड", "ग्राफीन"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which modern wonder monument is a historic stone city constructed high inside Peru mountain clouds?",
+    "question_hi": "कौन सा आधुनिक अजूबा स्मारक पेरू के पहाड़ों के बादलों में बना एक ऐतिहासिक पत्थर का शहर है?",
+    "options_en": ["Machu Picchu", "Chichen Itza", "Christ the Redeemer", "Petra"],
+    "options_hi": ["माचू पिच्चू (Machu Picchu)", "चिचेन इत्जा", "क्राइस्ट द रिडीमर", "पेत्रा"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What is the primary binary base metric unit size representing eight bundled bits of active storage data?",
+    "question_hi": "सक्रिय स्टोरेज डेटा के आठ बंडल किए गए बिट्स का प्रतिनिधित्व करने वाला प्राथमिक बाइनरी बेस मेट्रिक यूनिट आकार क्या है?",
+    "options_en": ["Byte", "Nibble", "Kilobyte", "Word"],
+    "options_hi": ["बाइट (Byte)", "निब्बल", "किलोबाइट", "वर्ड"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which gas giant planet features the historic giant meteorological cyclone storm named Great Red Spot?",
+    "question_hi": "किस गैसीय विशाल ग्रह में 'ग्रेट रेड स्पॉट' (Great Red Spot) नामक ऐतिहासिक विशाल चक्रवाती तूफान स्थित है?",
+    "options_en": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+    "options_hi": ["शनि", "बृहस्पति (Jupiter)", "वरुण", "अरुण"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Who wrote the historic classic romantic comedy play 'A Midsummer Night's Dream'?",
+    "question_hi": "ऐतिहासिक क्लासिक रोमांटिक कॉमेडी नाटक 'ए मिडसमर नाइट्स ड्रीम' किसने लिखा था?",
+    "options_en": ["William Shakespeare", "Ben Jonson", "Christopher Marlowe", "Thomas Kyd"],
+    "options_hi": ["विलियम शेक्सपियर", "बेन जॉनसन", "क्रिस्टोफर मार्लो", "थॉमस किड"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which Indian state shares borders with three sovereign foreign countries?",
+    "question_hi": "भारत का कौन सा राज्य तीन संप्रभु विदेशी देशों के साथ सीमाएँ साझा करता है?",
+    "options_en": ["Sikkim", "West Bengal", "Arunachal Pradesh", "All of the Above"],
+    "options_hi": ["सिक्किम", "पश्चिम बंगाल", "अरुणाचल प्रदेश", "उपरोक्त सभी"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "What natural asset molecule provides structural support to cell walls across vascular plants?",
+    "question_hi": "कौन सा प्राकृतिक अणु संवहनी पौधों (vascular plants) की कोशिका दीवारों को संरचनात्मक सहायता प्रदान करता है?",
+    "options_en": ["Cellulose", "Chitin", "Keratin", "Glycogen"],
+    "options_hi": ["सेल्यूलोज (Cellulose)", "काइटिन", "केराटिन", "ग्लाइकोजन"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which country is the second largest landlocked nation by global land area measurements?",
+    "question_hi": "वैश्विक भूमि क्षेत्र माप के अनुसार दुनिया का दूसरा सबसे बड़ा भूमि से घिरा (landlocked) देश कौन सा है?",
+    "options_en": ["Mongolia", "Kazakhstan", "Chad", "Niger"],
+    "options_hi": ["मंगोलिया (Mongolia)", "कजाकिस्तान", "चाड", "नाइजर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What testing device links into multi-variable electronic circuits to display real-time signal waveforms?",
+    "question_hi": "रीयल-टाइम सिग्नल तरंगों (waveforms) को प्रदर्शित करने के लिए कौन सा परीक्षण उपकरण सर्किट से जुड़ता है?",
+    "options_en": ["Oscilloscope", "Multimeter", "Spectrum Analyzer", "Signal Generator"],
+    "options_hi": ["ऑसिलोस्कोप (Oscilloscope)", "मल्टीमीटर", "स्पेक्ट्रम विश्लेषक", "सिग्नल जेनरेटर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which European capital city features the iconic historic Eiffel Tower structure?",
+    "question_hi": "किस यूरोपीय राजधानी शहर में प्रतिष्ठित ऐतिहासिक एफिल टॉवर संरचना स्थित है?",
+    "options_en": ["London", "Paris", "Berlin", "Rome"],
+    "options_hi": ["लंदन", "पेरिस (Paris)", "बर्लिन", "रोम"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What atmospheric gas is primary element content tracked inside gas giant Neptune?",
+    "question_hi": "विशाल गैसीय ग्रह नेपच्यून के भीतर मुख्य रूप से किस वायुमंडलीय गैस को ट्रैक किया जाता है?",
+    "options_en": ["Hydrogen", "Helium", "Methane", "Nitrogen"],
+    "options_hi": ["हाइड्रोजन", "हीलियम", "मीथेन (Methane)", "नाइट्रोजन"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who developed the breakthrough alternative current power engineering transmission frameworks?",
+    "question_hi": "अभूतपूर्व अल्टरनेटिंग करंट (AC) पावर इंजीनियरिंग ट्रांसमिशन फ्रेमवर्क का विकास किसने किया था?",
+    "options_en": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "James Watt"],
+    "options_hi": ["निकोला टेस्ला (Nikola Tesla)", "थॉमस एडिसन", "अलेक्जेंडर ग्राहम बेल", "जेम्स वाट"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which ocean features the remote historic geographic destination named Easter Island?",
+    "question_hi": "ईस्टर द्वीप (Easter Island) नामक दूरस्थ ऐतिहासिक भौगोलिक गंतव्य किस महासागर में स्थित है?",
+    "options_en": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"],
+    "options_hi": ["प्रशांत महासागर (Pacific Ocean)", "अटलांटिक महासागर", "हिंद महासागर", "दक्षिणी महासागर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What is the velocity speed coefficient value of clean light waves through a vacuum environment?",
+    "question_hi": "निर्वात (vacuum) वातावरण के माध्यम से स्वच्छ प्रकाश तरंगों का वेग मान क्या है?",
+    "options_en": ["~300,000 km/s", "~150,000 km/s", "~340 m/s", "~3,000 km/s"],
+    "options_hi": ["~300,000 किमी/सेकंड", "~150,000 किमी/सेकंड", "~340 मीटर/सेकंड", "~3,000 किमी/सेकंड"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which specific element wraps dynamic execution structures using async modules in JS engines?",
+    "question_hi": "जेएस इंजन में एसिंक (async) मॉड्यूल का उपयोग करके कौन सा विशिष्ट तत्व गतिशील निष्पादन संरचनाओं को लपेटता है?",
+    "options_en": ["Promises", "Callbacks", "Prototypes", "Closures"],
+    "options_hi": ["प्रॉमिस (Promises)", "कॉलबैक", "प्रोटोटाइप", "क्लोजर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which layer is the reflective glass outer wrapping built around an optical fiber glass node?",
+    "question_hi": "ऑप्टिकल फाइबर ग्लास नोड के चारों ओर बनी परावर्तक ग्लास की बाहरी परत कौन सी है?",
+    "options_en": ["Cladding", "Core", "Jacket", "Sheath"],
+    "options_hi": ["क्लैडिंग (Cladding)", "कोर", "जैकेट", "म्यान"],
+    "correct_index": 0
+  }
+]
