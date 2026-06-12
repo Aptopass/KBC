@@ -1,0 +1,711 @@
+Here is the second set of 100 questions designed specifically for **Level 2** (Tiers 5–8) of your KBC game.
+
+These questions are slightly more advanced than Level 1, testing intermediate general knowledge across science, geography, history, and pop culture. They fit perfectly into the chronological order of your game structure.
+
+### `level2.json` (Questions 1-100)
+
+```json
+[
+  {
+    "question_en": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "question_hi": "किस ग्रह को 'भोर का तारा' या 'सांझ का तारा' कहा जाता है?",
+    "options_en": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "options_hi": ["मंगल", "शुक्र", "बुध", "बृहस्पति"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which gas is most abundant in the Earth's atmosphere?",
+    "question_hi": "पृथ्वी के वायुमंडल में कौन सी गैस सबसे प्रचुर मात्रा में है?",
+    "options_en": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+    "options_hi": ["ऑक्सीजन", "हाइड्रोजन", "कार्बन डाइऑक्साइड", "नाइट्रोजन"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "Which state is known as the 'Spice Garden of India'?",
+    "question_hi": "किस राज्य को 'भारत का मसालों का बगीचा' कहा जाता है?",
+    "options_en": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "options_hi": ["कर्नाटक", "केरल", "तमिलनाडु", "आंध्र प्रदेश"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Who painted the famous masterpiece 'Mona Lisa'?",
+    "question_hi": "प्रसिद्ध उत्कृष्ट कृति 'मोना लिसा' को किसने चित्रित किया था?",
+    "options_en": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "options_hi": ["विन्सेंट वैन गॉग", "पाब्लो पिकासो", "लियोनार्डो दा विंची", "माइकलएंजेलो"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which internal organ in the human body can regenerate itself?",
+    "question_hi": "मानव शरीर का कौन सा आंतरिक अंग स्वयं को पुनर्जीवित (regenerate) कर सकता है?",
+    "options_en": ["Heart", "Liver", "Lungs", "Kidney"],
+    "options_hi": ["हृदय", "यकृत (Liver)", "फेफड़े", "गुर्दा (Kidney)"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which of these monuments was built by Emperor Shah Jahan?",
+    "question_hi": "इनमें से किस स्मारक का निर्माण सम्राट शाहजहाँ ने करवाया था?",
+    "options_en": ["Qutub Minar", "Red Fort", "Buland Darwaza", "Charminar"],
+    "options_hi": ["कुतुब मीनार", "लाल किला", "बुलंद दरवाजा", "चारमीनार"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the capital of Australia?",
+    "question_hi": "ऑस्ट्रेलिया की राजधानी क्या है?",
+    "options_en": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+    "options_hi": ["सिडनी", "मेलबर्न", "ब्रिस्बेन", "कैनबरा"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "Which mathematical constant is defined as the ratio of a circle's circumference to its diameter?",
+    "question_hi": "किस गणितीय स्थिरांक (constant) को वृत्त की परिधि और उसके व्यास के अनुपात के रूप में परिभाषित किया गया है?",
+    "options_en": ["Euler's number (e)", "Golden Ratio", "Pi ($\\pi$)", "Infinity"],
+    "options_hi": ["यूलर संख्या (e)", "स्वर्ण अनुपात", "पाई ($\\pi$)", "अनंत"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "In which state of India are the ancient Ajanta Caves located?",
+    "question_hi": "प्राचीन अजंता की गुफाएं भारत के किस राज्य में स्थित हैं?",
+    "options_en": ["Madhya Pradesh", "Maharashtra", "Gujarat", "Rajasthan"],
+    "options_hi": ["मध्य प्रदेश", "महाराष्ट्र", "गुजरात", "राजस्थान"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which element has the chemical symbol 'O'?",
+    "question_hi": "किस तत्व का रासायनिक प्रतीक 'O' है?",
+    "options_en": ["Gold", "Oxygen", "Osmium", "Iron"],
+    "options_hi": ["सोना", "ऑक्सीजन", "ओस्मियम", "लोहा"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Who was the author of the famous book 'Discovery of India'?",
+    "question_hi": "प्रसिद्ध पुस्तक 'डिस्कवरी ऑफ इंडिया' (भारत की खोज) के लेखक कौन थे?",
+    "options_en": ["Mahatma Gandhi", "Subhash Chandra Bose", "Jawaharlal Nehru", "Rabindranath Tagore"],
+    "options_hi": ["महात्मा गांधी", "सुभाष चंद्र बोस", "जवाहरलाल नेहरू", "रवींद्रनाथ टैगोर"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which device measures atmospheric pressure?",
+    "question_hi": "कौन सा उपकरण वायुमंडलीय दबाव को मापता है?",
+    "options_en": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+    "options_hi": ["थर्मामीटर", "बैरोमीटर", "हाइग्रोमीटर", "एनेमोमीटर"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which ocean completely surrounds the island continent of Antarctica?",
+    "question_hi": "कौन सा महासागर अंटार्कटिका महाद्वीप को पूरी तरह से घेरता है?",
+    "options_en": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "options_hi": ["हिंद महासागर", "प्रशांत महासागर", "अटलांटिक महासागर", "दक्षिणी महासागर"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "What is the square root of 144?",
+    "question_hi": "144 का वर्गमूल क्या है?",
+    "options_en": ["11", "12", "14", "16"],
+    "options_hi": ["11", "12", "14", "16"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Who was the first person to step onto the surface of the Moon?",
+    "question_hi": "चंद्रमा की सतह पर कदम रखने वाले पहले व्यक्ति कौन थे?",
+    "options_en": ["Yuri Gagarin", "Buzz Aldrin", "Neil Armstrong", "John Glenn"],
+    "options_hi": ["यूरी गागरिन", "बज़ एल्ड्रिन", "नील आर्मस्ट्रांग", "जॉन ग्लेन"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "In computing, what does the acronym 'RAM' stand for?",
+    "question_hi": "कंप्यूटिंग में, संक्षिप्त रूप 'RAM' का क्या अर्थ है?",
+    "options_en": ["Read Access Memory", "Random Access Memory", "Ready Application Module", "Rapid Active Matrix"],
+    "options_hi": ["रीड एक्सेस मेमोरी", "रैंडम एक्सेस मेमोरी", "रेडी एप्लिकेशन मॉड्यूल", "रैपिड एक्टिव मैट्रिक्स"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which country is the largest in the world by land area?",
+    "question_hi": "भूमि क्षेत्रफल के हिसाब से विश्व का सबसे बड़ा देश कौन सा है?",
+    "options_en": ["Canada", "China", "USA", "Russia"],
+    "options_hi": ["कनाडा", "चीन", "अमेरिका", "रूस"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "What type of lens is used in a magnifying glass?",
+    "question_hi": "आवर्धक लेंस (Magnifying glass) में किस प्रकार के लेंस का उपयोग किया जाता है?",
+    "options_en": ["Concave Lens", "Convex Lens", "Cylindrical Lens", "Bifocal Lens"],
+    "options_hi": ["अवतल लेंस (Concave)", "उत्तल लेंस (Convex)", "बेलनाकार लेंस", "द्विफोकल लेंस"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which of these cities is situated on the banks of the river Yamuna?",
+    "question_hi": "इनमें से कौन सा शहर यमुना नदी के तट पर स्थित है?",
+    "options_en": ["Haridwar", "Varanasi", "Agra", "Patna"],
+    "options_hi": ["हरिद्वार", "वाराणसी", "आगरा", "पटना"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "How many players are on the court for a single team in Basketball?",
+    "question_hi": "बास्केटबॉल में एक टीम के लिए कोर्ट पर कितने खिलाड़ी होते हैं?",
+    "options_en": ["5", "6", "7", "11"],
+    "options_hi": ["5", "6", "7", "11"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which acid is found naturally in lemons and oranges?",
+    "question_hi": "नींबू और संतरे में प्राकृतिक रूप से कौन सा अम्ल (Acid) पाया जाता है?",
+    "options_en": ["Acetic Acid", "Lactic Acid", "Citric Acid", "Tartaric Acid"],
+    "options_hi": ["एसिटिक अम्ल", "लैक्टिक अम्ल", "साइट्रिक अम्ल", "टार्टरिक अम्ल"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which metal is kept immersed in kerosene oil due to its extreme reactivity?",
+    "question_hi": "अत्यधिक प्रतिक्रियाशीलता के कारण किस धातु को मिट्टी के तेल (Kerosene) में डुबोकर रखा जाता है?",
+    "options_en": ["Sodium", "Iron", "Copper", "Silver"],
+    "options_hi": ["सोडियम", "लोहा", "तांबा", "चांदी"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Who wrote the historical epic play 'Shakuntala'?",
+    "question_hi": "ऐतिहासिक महाकाव्य नाटक 'शकुंतला' किसने लिखा था?",
+    "options_en": ["Tulsidas", "Kalidas", "Kabir", "Valmiki"],
+    "options_hi": ["तुलसीदास", "कालिदास", "कबीर", "वाल्मीकि"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the capital city of Canada?",
+    "question_hi": "कनाडा की राजधानी शहर कौन सा है?",
+    "options_en": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "options_hi": ["टोरंटो", "वैंकूवर", "मॉन्ट्रियल", "ओटावा"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "Which blood cells are responsible for fighting infections in the human body?",
+    "question_hi": "मानव शरीर में संक्रमण से लड़ने के लिए कौन सी रक्त कोशिकाएं जिम्मेदार हैं?",
+    "options_en": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+    "options_hi": ["लाल रक्त कोशिकाएं", "श्वेत रक्त कोशिकाएं (WBC)", "प्लेटलेट्स", "प्लाज्मा"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which country is the origin of the martial art form 'Judo'?",
+    "question_hi": "मार्शल आर्ट फॉर्म 'जूडो' का उद्गम किस देश से हुआ है?",
+    "options_en": ["China", "South Korea", "Japan", "Thailand"],
+    "options_hi": ["चीन", "दक्षिण कोरिया", "जापान", "थाईलैंड"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which classical dance form originates from the state of Tamil Nadu?",
+    "question_hi": "कौन सा शास्त्रीय नृत्य तमिलनाडु राज्य से उत्पन्न हुआ है?",
+    "options_en": ["Kathak", "Kathakali", "Bharatanatyam", "Kuchipudi"],
+    "options_hi": ["कथक", "कथकली", "भरतनाट्यम", "कुचिपुड़ी"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the primary substance that makes up the shell of a bird's egg?",
+    "question_hi": "पक्षी के अंडे के छिलके को बनाने वाला प्राथमिक पदार्थ क्या है?",
+    "options_en": ["Calcium Carbonate", "Sodium Chloride", "Silicon Dioxide", "Calcium Phosphate"],
+    "options_hi": ["कैल्शियम कार्बोनेट", "सोडियम क्लोराइड", "सिलिकॉन डाइऑक्साइड", "कैल्शियम फास्फेट"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which of these layer structures protects Earth from harmful ultraviolet solar radiation?",
+    "question_hi": "इनमें से कौन सी परत पृथ्वी को हानिकारक पराबैंगनी सौर विकिरण से बचाती है?",
+    "options_en": ["Ionosphere", "Ozone Layer", "Mesosphere", "Exosphere"],
+    "options_hi": ["आयनमंडल", "ओजोन परत", "मध्यमंडल", "बाह्यमंडल"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "In physics, what is the unit of electrical resistance?",
+    "question_hi": "भौतिकी में, विद्युत प्रतिरोध (Electrical resistance) की इकाई क्या है?",
+    "options_en": ["Volt", "Ampere", "Ohm", "Watt"],
+    "options_hi": ["वोल्ट", "एम्पीयर", "ओम (Ohm)", "वाट"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which layer is located directly beneath the outer crust of the Earth?",
+    "question_hi": "पृथ्वी की बाहरी पपड़ी (Crust) के ठीक नीचे कौन सी परत स्थित है?",
+    "options_en": ["Inner Core", "Outer Core", "Mantle", "Lithosphere"],
+    "options_hi": ["आंतरिक कोर", "बाहरी कोर", "मेंटल (Mantle)", "स्थलमंडल"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who is credited with discovering the antibiotic substance 'Penicillin'?",
+    "question_hi": "एंटीबायोटिक पदार्थ 'पेनिसिलिन' की खोज का श्रेय किसे दिया जाता है?",
+    "options_en": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Edward Jenner"],
+    "options_hi": ["लुई पाश्चर", "अलेक्जेंडर फ्लेमिंग", "रॉबर्ट कोच", "एडवर्ड जेनर"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which city is known as the 'Silicon Valley of India'?",
+    "question_hi": "किस शहर को 'भारत की सिलिकॉन वैली' के रूप में जाना जाता है?",
+    "options_en": ["Hyderabad", "Mumbai", "Pune", "Bengaluru"],
+    "options_hi": ["हैदराबाद", "मुंबई", "पुणे", "बेंगलुरु"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "What is the official currency of the United Kingdom?",
+    "question_hi": "यूनाइटेड किंगडम (UK) की आधिकारिक मुद्रा क्या है?",
+    "options_en": ["Euro", "Pound Sterling", "Dollar", "Franc"],
+    "options_hi": ["यूरो", "पाउंड स्टर्लिंग", "डॉलर", "फ्रैंक"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "How many degrees are there in a complete circle rotation?",
+    "question_hi": "एक पूर्ण वृत्त घूर्णन (rotation) में कितने डिग्री होते हैं?",
+    "options_en": ["180°", "270°", "360°", "400°"],
+    "options_hi": ["180°", "270°", "360°", "400°"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which vector insect is the primary carrier of the Dengue virus?",
+    "question_hi": "कौन सा कीट डेंगू वायरस का प्राथमिक वाहक है?",
+    "options_en": ["Anopheles Mosquito", "Aedes Mosquito", "Culex Mosquito", "Housefly"],
+    "options_hi": ["एनोफिलीज मच्छर", "एडीज मच्छर", "क्यूलेक्स मच्छर", "घरेलू मक्खी"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which long-serving leader was known by the honorific prefix 'Iron Lady'?",
+    "question_hi": "किस लंबे समय तक सेवा करने वाले नेता को 'आयरन लेडी' के नाम से जाना जाता था?",
+    "options_en": ["Margaret Thatcher", "Angela Merkel", "Theresa May", "Queen Elizabeth II"],
+    "options_hi": ["मार्गरेट थैचर", "एंजेला मर्केल", "थेरेसा मे", "महारानी एलिजाबेथ II"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What complex molecule provides the structural blueprint framework for all living organisms?",
+    "question_hi": "कौन सा जटिल अणु सभी जीवित जीवों के लिए संरचनात्मक खाका (blueprint) प्रदान करता है?",
+    "options_en": ["ATP", "DNA", "RNA", "Hemoglobin"],
+    "options_hi": ["एटीपी (ATP)", "डीएनए (DNA)", "आरएनए (RNA)", "हीमोग्लोबिन"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which strait separates India from Sri Lanka?",
+    "question_hi": "कौन सा जलडमरूमध्य (Strait) भारत को श्रीलंका से अलग करता है?",
+    "options_en": ["Malacca Strait", "Palk Strait", "Gibraltar Strait", "Cook Strait"],
+    "options_hi": ["मलक्का जलडमरूमध्य", "पाक जलडमरूमध्य (Palk Strait)", "जिब्राल्टर जलडमरूमध्य", "कुक जलडमरूमध्य"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which pigment gives green color plants their unique light-absorbing property?",
+    "question_hi": "कौन सा वर्णक (Pigment) हरे पौधों को उनकी अनूठी प्रकाश-अवशोषित करने की क्षमता देता है?",
+    "options_en": ["Carotene", "Hemoglobin", "Chlorophyll", "Melanin"],
+    "options_hi": ["कैरोटीन", "हीमोग्लोबिन", "क्लोरोफिल", "मेलेनिन"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who was the first Indian woman to win an Olympic medal?",
+    "question_hi": "ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थीं?",
+    "options_en": ["Saina Nehwal", "Mary Kom", "Karnam Malleswari", "P.V. Sindhu"],
+    "options_hi": ["साइना नेहवाल", "मैरी कॉम", "कर्णम मल्लेश्वरी", "पी.वी. सिंधु"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What type of energy is stored within an object due to its structural position elevation height?",
+    "question_hi": "किसी वस्तु में उसकी स्थिति या ऊँचाई के कारण कौन सी ऊर्जा संचित होती है?",
+    "options_en": ["Kinetic Energy", "Potential Energy", "Thermal Energy", "Chemical Energy"],
+    "options_hi": ["गतिज ऊर्जा (Kinetic)", "स्थितिज़ ऊर्जा (Potential)", "तापीय ऊर्जा", "रासायनिक ऊर्जा"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which country is the largest producer of coffee in the world?",
+    "question_hi": "विश्व में कॉफी का सबसे बड़ा उत्पादक देश कौन सा है?",
+    "options_en": ["Colombia", "India", "Brazil", "Vietnam"],
+    "options_hi": ["कोलंबिया", "भारत", "ब्राजील", "वियतनाम"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which organelle is commonly referred to as the powerhouse of the cell?",
+    "question_hi": "किस कोशिकांग (Organelle) को आमतौर पर 'कोशिका का पावरहाउस' कहा जाता है?",
+    "options_en": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Apparatus"],
+    "options_hi": ["केंद्रक (Nucleus)", "राइबोसोम", "माइटोकॉन्ड्रिया", "गोल्गी तंत्र"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the capital city of Germany?",
+    "question_hi": "जर्मनी की राजधानी शहर कौन सा है?",
+    "options_en": ["Munich", "Frankfurt", "Berlin", "Hamburg"],
+    "options_hi": ["म्यूनिख", "फ्रैंकफर्ट", "बर्लिन", "हैमबर्ग"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which historical figure was famously known as 'Netaji'?",
+    "question_hi": "किस ऐतिहासिक व्यक्तित्व को 'नेताजी' के नाम से जाना जाता था?",
+    "options_en": ["Bhagat Singh", "Subhash Chandra Bose", "Chandrashekhar Azad", "Lala Lajpat Rai"],
+    "options_hi": ["भगत सिंह", "सुभाष चंद्र बोस", "चन्द्रशेखर आज़ाद", "लाला लाजपत राय"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the value of $5^3$?",
+    "question_hi": "$5^3$ का मान क्या है?",
+    "options_en": ["15", "25", "75", "125"],
+    "options_hi": ["15", "25", "75", "125"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "Which Indian state has the longest coastline geography length border?",
+    "question_hi": "भारत के किस राज्य की भौगोलिक तटरेखा (Coastline) सबसे लंबी है?",
+    "options_en": ["Maharashtra", "Tamil Nadu", "Gujarat", "Andhra Pradesh"],
+    "options_hi": ["महाराष्ट्र", "तमिलनाडु", "गुजरात", "आंध्र प्रदेश"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the common chemical name for baking soda compound?",
+    "question_hi": "बेकिंग सोडा का सामान्य रासायनिक नाम क्या है?",
+    "options_en": ["Sodium Carbonate", "Sodium Bicarbonate", "Sodium Chloride", "Calcium Carbonate"],
+    "options_hi": ["सोडियम कार्बोनेट", "सोडियम बाइकार्बोनेट", "सोडियम क्लोराइड", "कैल्शियम कार्बोनेट"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which classical dance form originated in the state of Kerala?",
+    "question_hi": "किस शास्त्रीय नृत्य शैली की उत्पत्ति केरल राज्य में हुई थी?",
+    "options_en": ["Kathakali", "Bharatanatyam", "Odissi", "Kathak"],
+    "options_hi": ["कथकली", "भरतनाट्यम", "ओडिसी", "कथक"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which is the largest cold desert environment in the world?",
+    "question_hi": "विश्व का सबसे बड़ा ठंडा रेगिस्तान (Cold desert) कौन सा है?",
+    "options_en": ["Sahara Desert", "Gobi Desert", "Antarctica", "Atacama Desert"],
+    "options_hi": ["सहारा रेगिस्तान", "गोबी रेगिस्तान", "अंटार्कटिका", "अटाकामा रेगिस्तान"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who was the primary architect designer of the Indian Constitution layout structure?",
+    "question_hi": "भारतीय संविधान के प्राथमिक निर्माता/शिल्पी कौन थे?",
+    "options_en": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Dr. Rajendra Prasad", "Jawaharlal Nehru"],
+    "options_hi": ["महात्मा गांधी", "डॉ. बी.आर. अंबेडकर", "डॉ. राजेन्द्र प्रसाद", "जवाहरलाल नेहरू"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which component inside a computer acts as its central data storage hub unit?",
+    "question_hi": "कंप्यूटर के अंदर कौन सा घटक उसके केंद्रीय डेटा स्टोरेज हब के रूप में कार्य करता है?",
+    "options_en": ["RAM", "Hard Disk Drive / SSD", "Processor", "Graphics Card"],
+    "options_hi": ["रैम (RAM)", "हार्ड डिस्क ड्राइव / SSD", "प्रोसेसर", "ग्राफिक्स कार्ड"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What standard metric unit scale measures the intensity of an earthquake force tremor?",
+    "question_hi": "भूकंप की तीव्रता को मापने के लिए किस मानक मीट्रिक पैमाने का उपयोग किया जाता है?",
+    "options_en": ["Celsius Scale", "Richter Scale", "Barometer Scale", "Newton Scale"],
+    "options_hi": ["सेल्सियस पैमाना", "रिक्टर पैमाना (Richter Scale)", "बैरोमीटर पैमाना", "न्यूटन पैमाना"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which element is fluid liquid under standard room temperature conditions?",
+    "question_hi": "मानक कमरे के तापमान पर कौन सा तत्व तरल रूप (Liquid) में होता है?",
+    "options_en": ["Mercury", "Gallium", "Bromine", "All of the Above"],
+    "options_hi": ["पारा (Mercury)", "गैलियम", "ब्रोमीन", "उपरोक्त सभी"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "What is the currency of Japan?",
+    "question_hi": "जापान की मुद्रा क्या है?",
+    "options_en": ["Yuan", "Won", "Yen", "Baht"],
+    "options_hi": ["युआन", "वोन", "येन (Yen)", "बाहत"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which bone is the smallest bone in the human body?",
+    "question_hi": "मानव शरीर की सबसे छोटी हड्डी कौन सी होती है?",
+    "options_en": ["Femur", "Stapes", "Phalanges", "Sternum"],
+    "options_hi": ["फीमर", "स्टेपीज (Stapes / कान की हड्डी)", "फालंगेस", "स्टर्नम"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which gas is released by plants during the process of photosynthesis?",
+    "question_hi": "प्रकाश संश्लेषण (Photosynthesis) की प्रक्रिया के दौरान पौधों द्वारा कौन सी गैस छोड़ी जाती है?",
+    "options_en": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Water Vapor"],
+    "options_hi": ["कार्बन डाइऑक्साइड", "नाइट्रोजन", "ऑक्सीजन", "जल वाष्प"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who wrote the famous classic tragedy play 'Romeo and Juliet'?",
+    "question_hi": "प्रसिद्ध क्लासिक त्रासदी नाटक 'रोमियो और जूलियट' किसने लिखा था?",
+    "options_en": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Leo Tolstoy"],
+    "options_hi": ["चार्ल्स डिकेंस", "विलियम शेक्सपियर", "मार्क ट्वेन", "लियो टॉल्स्टॉय"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which of these is the largest lake in India by surface area?",
+    "question_hi": "सतह के क्षेत्रफल के हिसाब से भारत की सबसे बड़ी झील कौन सी है?",
+    "options_en": ["Wular Lake", "Chilika Lake", "Dal Lake", "Vembanad Lake"],
+    "options_hi": ["वुलर झील", "चिलिका झील", "डल झील", "वेम्बनाड झील"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "What is the primary operational language format code framework used to style web pages?",
+    "question_hi": "वेब पेजों को स्टाइल करने के लिए उपयोग किया जाने वाला प्राथमिक कोड ढांचा कौन सा है?",
+    "options_en": ["HTML", "Python", "CSS", "SQL"],
+    "options_hi": ["HTML", "Python", "CSS", "SQL"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which country won the first ICC Men's Cricket World Cup in 1975?",
+    "question_hi": "1975 में पहला ICC पुरुष क्रिकेट विश्व कप किस देश ने जीता था?",
+    "options_en": ["Australia", "England", "West Indies", "India"],
+    "options_hi": ["ऑस्ट्रेलिया", "इंग्लैंड", "वेस्टइंडीज", "भारत"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which planet has the shortest year duration rotation cycle around the sun?",
+    "question_hi": "सूर्य के चारों ओर चक्कर लगाने में किस ग्रह का वर्ष काल सबसे छोटा होता है?",
+    "options_en": ["Venus", "Mercury", "Earth", "Mars"],
+    "options_hi": ["शुक्र", "बुध (Mercury)", "पृथ्वी", "मंगल"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What type of mirror is used as a rearview mirror in vehicles?",
+    "question_hi": "वाहनों में पीछे का दृश्य देखने के लिए (Rearview mirror) किस प्रकार के दर्पण का उपयोग किया जाता है?",
+    "options_en": ["Plane Mirror", "Concave Mirror", "Convex Mirror", "Cylindrical Mirror"],
+    "options_hi": ["समतल दर्पण", "अवतल दर्पण", "उत्तल दर्पण (Convex Mirror)", "बेलनाकार दर्पण"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which scientist formulated the Three Laws of Motion?",
+    "question_hi": "किस वैज्ञानिक ने गति के तीन नियमों (Three Laws of Motion) का प्रतिपादन किया?",
+    "options_en": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "options_hi": ["अल्बर्ट आइंस्टीन", "इसाक न्यूटन", "गैलीलियो गैलीली", "निकोला टेस्ला"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which state is the origin location birthplace of the dance form 'Kathak'?",
+    "question_hi": "कथक नृत्य शैली का उद्गम स्थान कौन सा राज्य है?",
+    "options_en": ["Uttar Pradesh", "Rajasthan", "Madhya Pradesh", "Bihar"],
+    "options_hi": ["उत्तर प्रदेश", "राजस्थान", "मध्य प्रदेश", "बिहार"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What is the capital city of Spain?",
+    "question_hi": "स्पेन की राजधानी शहर कौन सा है?",
+    "options_en": ["Barcelona", "Madrid", "Seville", "Valencia"],
+    "options_hi": ["बार्सिलोना", "मैड्रिड (Madrid)", "सेविले", "वेलेंसिया"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which structural vitamin compound is synthesized when human skin is exposed to sunlight?",
+    "question_hi": "जब मानव त्वचा सूर्य के प्रकाश के संपर्क में आती है तो किस विटामिन का संश्लेषण होता है?",
+    "options_en": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "options_hi": ["विटामिन A", "विटामिन B12", "विटामिन C", "विटामिन D"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "Which chemical element makes up the core filament wire inside traditional incandescent lightbulbs?",
+    "question_hi": "पारंपरिक तापदीप्त (incandescent) लाइट बल्बों के अंदर फिलामेंट तार किस रासायनिक तत्व से बना होता है?",
+    "options_en": ["Copper", "Tungsten", "Platinum", "Aluminum"],
+    "options_hi": ["तांबा", "टंगस्टन (Tungsten)", "प्लेटिनम", "एल्युमिनियम"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which is the largest peninsula landmass in the world?",
+    "question_hi": "विश्व का सबसे बड़ा प्रायद्वीप (Peninsula) कौन सा है?",
+    "options_en": ["Indian Peninsula", "Arabian Peninsula", "Indochina Peninsula", "Alaskan Peninsula"],
+    "options_hi": ["भारतीय प्रायद्वीप", "अरब प्रायद्वीप (Arabian Peninsula)", "इंडोचाइना प्रायद्वीप", "अलास्का प्रायद्वीप"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Who discovered the mathematical value of Pi up to multiple decimal places in ancient India?",
+    "question_hi": "प्राचीन भारत में पाई ($\\pi$) के गणितीय मान की खोज किसने की थी?",
+    "options_en": ["Aryabhata", "Brahmagupta", "Bhaskara I", "Varahamihira"],
+    "options_hi": ["आर्यभट्ट", "ब्रह्मगुप्त", "भास्कर I", "वराहमिहिर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "What is the chemical formula for common table salt?",
+    "question_hi": "साधारण नमक का रासायनिक सूत्र क्या है?",
+    "options_en": ["NaOH", "NaCl", "HCl", "KCl"],
+    "options_hi": ["NaOH", "NaCl", "HCl", "KCl"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which country shares the longest international land border line with India?",
+    "question_hi": "कौन सा देश भारत के साथ सबसे लंबी अंतर्राष्ट्रीय भूमि सीमा साझा करता है?",
+    "options_en": ["Pakistan", "China", "Nepal", "Bangladesh"],
+    "options_hi": ["पाकिस्तान", "चीन", "नेपाल", "बांग्लादेश"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "Which blood group type is universally known as the universal donor?",
+    "question_hi": "किस रक्त समूह (Blood group) को सार्वभौमिक दाता (Universal donor) कहा जाता है?",
+    "options_en": ["A Positive", "B Positive", "AB Negative", "O Negative"],
+    "options_hi": ["A पॉजिटिव", "B पॉजिटिव", "AB नेगेटिव", "O नेगेटिव"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "Which city hosted the first modern Olympic Games in 1896?",
+    "question_hi": "1896 में किस शहर ने पहले आधुनिक ओलंपिक खेलों की मेजबानी की थी?",
+    "options_en": ["Paris", "London", "Athens", "Rome"],
+    "options_hi": ["पेरिस", "लंदन", "एथेंस (Athens)", "रोम"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What does a hygrometer instrument measure?",
+    "question_hi": "हाइग्रोमीटर (Hygrometer) उपकरण क्या मापता है?",
+    "options_en": ["Wind Speed", "Water Purity", "Humidity", "Liquid Density"],
+    "options_hi": ["हवा की गति", "पानी की शुद्धता", "आर्द्रता (Humidity)", "तरल घनत्व"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which Indian revolutionary thinker famously coined the slogan 'Inquilab Zindabad'?",
+    "question_hi": "किस भारतीय क्रांतिकारी विचारक ने 'इंकलाब जिंदाबाद' का नारा लोकप्रिय बनाया था?",
+    "options_en": ["Bhagat Singh", "Subhash Chandra Bose", "Hasrat Mohani", "Chandrashekhar Azad"],
+    "options_hi": ["भगत सिंह", "सुभाष चंद्र बोस", "हसरत मोहनी", "चन्द्रशेखर आज़ाद"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the absolute coldest theoretical temperature possible in the universe?",
+    "question_hi": "ब्रह्मांड में संभावित सबसे ठंडा सैद्धांतिक तापमान (Absolute Zero) क्या है?",
+    "options_en": ["0°C", "-100°C", "-273.15°C", "-300°C"],
+    "options_hi": ["0°C", "-100°C", "-273.15°C", "-300°C"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which river is often referred to as the 'Dakshin Ganga'?",
+    "question_hi": "किस नदी को अक्सर 'दक्षिण गंगा' कहा जाता है?",
+    "options_en": ["Krishna", "Godavari", "Kaveri", "Narmada"],
+    "options_hi": ["कृष्णा", "गोदावरी", "कावेरी", "नर्मदा"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which organ in the human digestive system produces bile fluid?",
+    "question_hi": "मानव पाचन तंत्र का कौन सा अंग पित्त रस (Bile fluid) का उत्पादन करता है?",
+    "options_en": ["Stomach", "Pancreas", "Liver", "Gallbladder"],
+    "options_hi": ["पेट", "अग्न्याशय (Pancreas)", "यकृत (Liver)", "पित्ताशय (Gallbladder)"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the capital city of South Korea?",
+    "question_hi": "दक्षिण कोरिया की राजधानी शहर कौन सा है?",
+    "options_en": ["Seoul", "Busan", "Incheon", "Daegu"],
+    "options_hi": ["सियोल (Seoul)", "बुसान", "इंचियोन", "डैगू"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which of these is the primary component of natural gas fuels?",
+    "question_hi": "इनमें से कौन सा प्राकृतिक गैस ईंधनों का प्राथमिक घटक है?",
+    "options_en": ["Ethane", "Propane", "Methane", "Butane"],
+    "options_hi": ["एथेन", "प्रोपेन", "मीथेन (Methane)", "ब्यूटेन"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who was the first Indian citizen to fly into outer space?",
+    "question_hi": "अंतरिक्ष में उड़ान भरने वाले पहले भारतीय नागरिक कौन थे?",
+    "options_en": ["Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "Ravish Malhotra"],
+    "options_hi": ["राकेश शर्मा", "कल्पना चावला", "सुनीता विलियम्स", "रविश मल्होत्रा"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which is the largest internal organ in the human body?",
+    "question_hi": "मानव शरीर का सबसे बड़ा आंतरिक अंग कौन सा है?",
+    "options_en": ["Brain", "Liver", "Heart", "Pancreas"],
+    "options_hi": ["मस्तिष्क", "यकृत (Liver)", "हृदय", "अग्न्याशय"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the value of $12 \times 12 \times 0$?",
+    "question_hi": "$12 \times 12 \times 0$ का मान क्या है?",
+    "options_en": ["144", "12", "0", "1"],
+    "options_hi": ["144", "12", "0", "1"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which atmospheric gas gives the planet Neptune its vibrant deep blue hue?",
+    "question_hi": "वायुमंडलीय की कौन सी गैस नेपच्यून ग्रह को उसका गहरा नीला रंग देती है?",
+    "options_en": ["Hydrogen", "Helium", "Methane", "Ammonia"],
+    "options_hi": ["हाइड्रोजन", "हीलियम", "मीथेन (Methane)", "अमोनिया"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who wrote the famous novel 'Godan' in Hindi literature?",
+    "question_hi": "हिंदी साहित्य का प्रसिद्ध उपन्यास 'गोदान' किसने लिखा था?",
+    "options_en": ["Harivansh Rai Bachchan", "Munshi Premchand", "Mahadevi Varma", "Kabir Das"],
+    "options_hi": ["हरिवंश राय बच्चन", "मुंशी प्रेमचंद", "महादेवी वर्मा", "कबीर दास"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which country is home to the ancient monument historic architectural complex 'Machu Picchu'?",
+    "question_hi": "प्राचीन ऐतिहासिक वास्तुकला परिसर 'माचू पिच्चू' किस देश में स्थित है?",
+    "options_en": ["Mexico", "Peru", "Brazil", "Egypt"],
+    "options_hi": ["मेक्सिको", "पेरू (Peru)", "ब्राजील", "मिस्र"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the primary function of the root hairs in a plant?",
+    "question_hi": "पौधे में मूल रोम (Root hairs) का प्राथमिक कार्य क्या होता है?",
+    "options_en": ["To absorb water and minerals", "To perform photosynthesis", "To protect the root from insects", "To anchor the tree firmly"],
+    "options_hi": ["पानी और खनिजों को अवशोषित करना", "प्रकाश संश्लेषण करना", "कीटों से जड़ की रक्षा करना", "पेड़ को मजबूती से टिकाना"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which country shares the longest continuous undefended border line with the USA?",
+    "question_hi": "कौन सा देश अमेरिका के साथ सबसे लंबी निरंतर असुरक्षित सीमा रेखा साझा करता है?",
+    "options_en": ["Mexico", "Canada", "Russia", "Cuba"],
+    "options_hi": ["मेक्सिको", "कनाडा (Canada)", "रूस", "क्यूबा"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "What is the chemical symbol for the precious element Silver?",
+    "question_hi": "बहुमूल्य तत्व चांदी का रासायनिक प्रतीक क्या है?",
+    "options_en": ["Si", "Au", "Ag", "Sl"],
+    "options_hi": ["Si", "Au", "Ag", "Sl"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which of these is an example of a scalar quantity in physics metrics?",
+    "question_hi": "भौतिकी में इनमें से कौन सा अदिश राशि (Scalar quantity) का उदाहरण है?",
+    "options_en": ["Velocity", "Force", "Acceleration", "Mass"],
+    "options_hi": ["वेग (Velocity)", "बल (Force)", "त्वरण (Acceleration)", "द्रव्यमान (Mass)"],
+    "correct_index": 3
+  },
+  {
+    "question_en": "Which city is known as the 'City of Lakes' in Rajasthan, India?",
+    "question_hi": "भारत के राजस्थान में किस शहर को 'झीलों की नगरी' कहा जाता है?",
+    "options_en": ["Jaipur", "Jodhpur", "Udaipur", "Bikaner"],
+    "options_hi": ["जयपुर", "जोधपुर", "उदयपुर (Udaipur)", "बीकानेर"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which vitamin deficiency is the primary cause of the disease 'Scurvy'?",
+    "question_hi": "किस विटामिन की कमी 'स्कर्वी' (Scurvy) रोग का प्राथमिक कारण है?",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_hi": ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Who developed the operational framework system design of the World Wide Web (WWW) in 1989?",
+    "question_hi": "1989 में वर्ल्ड वाइड वेब (WWW) का परिचालन ढांचा किसने विकसित किया था?",
+    "options_en": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Alan Turing"],
+    "options_hi": ["बिल गेट्स", "स्टीव जॉब्स", "टिम बर्नर्स-ली", "एलन ट्यूरिंग"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the name of the highest mountain plateau region in the world?",
+    "question_hi": "विश्व के सबसे ऊंचे पर्वतीय पठारी क्षेत्र (Plateau) का नाम क्या है?",
+    "options_en": ["Colorado Plateau", "Deccan Plateau", "Tibetan Plateau", "Anatolian Plateau"],
+    "options_hi": ["कोलोराडो पठार", "दक्कन का पठार", "तिब्बती पठार (Tibetan Plateau)", "अनातोलियन पठार"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "Which structural feature allows fish to extract dissolved oxygen directly from water?",
+    "question_hi": "कौन सी संरचनात्मक विशेषता मछलियों को पानी से सीधे ऑक्सीजन निकालने की अनुमति देती है?",
+    "options_en": ["Lungs", "Scales", "Gills", "Fins"],
+    "options_hi": ["फेफड़े", "शल्क (Scales)", "गलफड़े (Gills)", "पंख (Fins)"],
+    "correct_index": 2
+  },
+  {
+    "question_en": "What is the capital city of Egypt?",
+    "question_hi": "मिस्र (Egypt) की राजधानी शहर कौन सा है?",
+    "options_en": ["Cairo", "Alexandria", "Giza", "Luxor"],
+    "options_hi": ["काहिरा (Cairo)", "अलेक्जेंड्रिया", "गीज़ा", "लक्सर"],
+    "correct_index": 0
+  },
+  {
+    "question_en": "Which component inside a plant cell is responsible for performing structural cellular photosynthesis?",
+    "question_hi": "पादप कोशिका के अंदर कौन सा घटक प्रकाश संश्लेषण करने के लिए जिम्मेदार है?",
+    "options_en": ["Cell Wall", "Chloroplast", "Vacuole", "Cytoplasm"],
+    "options_hi": ["कोशिका भित्ति", "क्लोरोप्लास्ट (Chloroplast)", "रिक्तिका (Vacuole)", "कोशिकाद्रव्य"],
+    "correct_index": 1
+  },
+  {
+    "question_en": "Which famous physicist formulated the Special and General Theories of Relativity?",
+    "question_hi": "किस प्रसिद्ध भौतिक विज्ञानी ने सापेक्षता के विशेष और सामान्य सिद्धांतों (Theories of Relativity) को प्रतिपादित किया?",
+    "options_en": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Max Planck"],
+    "options_hi": ["इसाक न्यूटन", "अल्बर्ट आइंस्टीन", "नील्स बोर", "मैक्स प्लैंक"],
+    "correct_index": 1
+  }
+]
+
+```
